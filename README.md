@@ -1,4 +1,4 @@
-# LogimSignup
+# Login Signup
 
         Login SignUp Documentation
 
